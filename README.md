@@ -59,9 +59,7 @@ Make sure the following are installed:
 - Go 1.20+
 - Flutter SDK
 - Node.js 18+ and npm/yarn
-- PostgreSQL & Redis (locally or cloud)
-- Firebase CLI (if used)
-
+- PostgreSQL (locally or cloud)
 ---
 
 ### AI Services Setup
